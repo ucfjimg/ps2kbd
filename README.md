@@ -16,4 +16,6 @@ over the Arduino's USB/serial interface so they can be seen in the serial monito
 easily be clocked out on an 8-bit parallel interface to another system. The shift keys and caps lock
 key are supported, and caps lock will correctly toggle the state of the caps lock LED.
 
+For more information on the low level protocol, see http://www.burtonsys.com/ps2_chapweske.htm.
 
+For information on scan codes and keyboard commands, see https://wiki.osdev.org/PS/2_Keyboard.
